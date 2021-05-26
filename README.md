@@ -9,10 +9,10 @@ It isn't designed to represent 'perfect' code!
 During the interview, we'll ask you to build on this basic app and add a few new features, along with a little bit of refactoring.
 
 Prep required: 
-- Clone the repo onto the device you'll be bringing to the interview. (If you're not able to bring a laptop to the interview, it isn't a problem - just let us know and we'll make arrangements for you to borrow a MacBook).
+- Clone the repo onto the device.
 - Follow the instructions below to spin up the app.
-- Make sure you understand the basics of the core technologies used: particularly React for FE, Koa for BE. 
-- Have a look through the code and gain an understanding of how the app hangs together. 
+- Our core technology is React for FE and Koa for BE. 
+- Have a look through the code and gain an understanding of how the app hangs together before you start.
 - Have a think about code quality: what does this skeleton app get right, and what would you be been to refactor if you inherited the project in real life? 
 
 ## About the App
@@ -40,3 +40,7 @@ Prep required:
   - Returns an array of medal winners
   - No auth requirements yet
   - Pagination is support via `limit` and `offset` query parameters
+
+
+
+
