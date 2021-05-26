@@ -1,0 +1,15 @@
+{
+  "name": "interview-exercise-olympics",
+  "version": "1.0.0",
+  "description": "## Background",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  },
+  "scripts": {
+    "prettify": "prettier --single-quote --write \"{backend,frontend}/**/*.js\""
+  },
+  "author": "",
+  "license": "ISC"
+}
